@@ -13,4 +13,4 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 You can also add images from the assets folder:
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+![Some open source softwares](./assets/images/open_source_photo.png)
