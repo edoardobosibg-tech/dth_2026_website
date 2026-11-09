@@ -67,7 +67,7 @@ section {
 /* hero banner */
 
 #pageHero {
-  background-image: url("./images/skagen.jpg");
+  background-image: url("./images/red_flag.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(160, 213, 240, 0.447);
+  white: #ffffff;
   height: 100%;
 }
 
