@@ -11,6 +11,8 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 ### A smaller headline
 
-You can also add images from the assets folder:
+
 
 ![Some open source softwares](./assets/images/open_source_photo.png)
+
+Some open source softwares
