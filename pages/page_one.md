@@ -12,5 +12,5 @@ Safety. Due to the transparency, programmers can find bugs, issues, and vulnerab
 Some open source softwares
 
 ## References
-[links](https://www.nibusinessinfo.co.uk/content/disadvantages-open-source-software)
-[links](https://opensource.guide/legal/)
+[https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)
+
