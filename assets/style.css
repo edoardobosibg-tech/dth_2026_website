@@ -234,3 +234,70 @@ main img {
   align-self: center;
   margin: 0;
 }
+
+main.defaultPageMargin {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(280px, 1fr);
+  column-gap: 40px;
+}
+
+main.defaultPageMargin #content {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+main.defaultPageMargin #charCount {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+#carousel {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+
+#carouselMain {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  aspect-ratio: auto;
+}
+
+.carouselArt {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}
+
+#carouselBtnContainer {
+  flex-direction: column;
+  align-items: center;
+}
+
+.carouselBtn {
+  margin: 10px 0;
+}
+
+@media (max-width: 800px) {
+  main.defaultPageMargin {
+    grid-template-columns: 1fr;
+  }
+
+  main.defaultPageMargin #content,
+  main.defaultPageMargin #charCount,
+  #carousel {
+    grid-column: 1;
+  }
+
+  main.defaultPageMargin #content {
+    grid-row: 1;
+  }
+
+  main.defaultPageMargin #charCount {
+    grid-row: 2;
+  }
+
+  #carousel {
+    grid-row: 3;
+  }
+}
