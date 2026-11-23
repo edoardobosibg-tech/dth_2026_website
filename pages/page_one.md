@@ -11,9 +11,11 @@ Safety. Due to the transparency, programmers can find bugs, issues, and vulnerab
 <li>
 Community. Open-source software often has big communities that make it easier for beginners to join the project, learn, and start contributing. Moreover, the bigger the community is, the more the previous points are valid: more users mean more eyes checking the code, which makes it easier to find problems and, when found, faster to fix them. </li>
 </ul>
-![Some open source softwares](./assets/images/open_source_photo.png)
 
-Some open source softwares
+<figure class="pageImage">
+  <img src="./assets/images/open_source_photo.png" alt="Some open source softwares" />
+  <figcaption>Some open source softwares</figcaption>
+</figure>
 
 ## References
 [https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/)
