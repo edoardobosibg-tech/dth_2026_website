@@ -1,12 +1,9 @@
 # Disadvantages of open source software
 
-## This is the headline of your second page
-
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
-
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
-
-### Another headline
-
-1. Numbered lists work too
-2. Just start the lines with numbers
+## Cons
+Open-source software has some disadvantages stemming from the same characteristics that make it great. 
+**Transparency and Security**. As mentioned before, open-source software code is freely accessible to everyone. This means that people with bad intentions can read and analyze the code in order to find weaknesses to exploit. While the community will eventually find the problem, there is no guarantee that it is faster than the malicious actors. 
+Difficulty of use. Open-source software can be hard to install and may be missing user-friendly interfaces, which can be a problem for more inexperienced and less tech-savvy users and ultimately prevent them from adopting the software.
+**Community**. Open-source software is often written by many people around the world, which means that the larger the community, the faster bugs are found and fixed, and new versions are published. Conversely, if software is created and maintained by a small community—or, in some cases, by only one person—it can take longer for problems to be found and fixed, especially given that most contributors do so free of charge and in their spare time.
+**Hidden costs**. When used in a professional environment, open-source software may have hidden costs: setting it up, installation, training the employees to use the new software, importing data from the old system, and integrating the new software with other systems your company uses all cost money and time. In certain cases, you may need to customize the software to your own needs, which will also entail a cost. Finally, most open-source software does not have a support package, which means that if you need assistance, you will have to find and pay for a third-party service.
+**License**. Writing, graphic, and coding works are by default protected by copyright, but open-source software is particular in this sense: since it is expected that others will take the code and modify it, and since it is technically still yours, you need to give permission. The permission is given through the license. It is important to know what the license allows: without a license, every contribution would be the rightful copyright of its author, which could entail that you are not allowed to use or modify that part of the code. This has now become a smaller problem due to the popularity of standardized licenses, such as the MIT license, but before starting to use or modify the code of an open-source software, it is good practice to read the license to understand what you are allowed to do with the code itself. 
